@@ -26,7 +26,7 @@ def monopoly_with_third_tier
     monopoly_hash = {
 	  :railroads => {
 	    :pieces => 4
-	    :=> "yes"
+	    :rent_in_dollars => "yes"
 	  }
 	}
 end
